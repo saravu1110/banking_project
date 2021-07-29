@@ -1,0 +1,30 @@
+{
+    "1001": {
+        "Account_Holder_Name": "saravana",
+        "Balance": 7100,
+        "Deposit_Transaction_Per_Day": 1,
+        "Withdrawal_Transaction_Per_Day": 1,
+        "Last_Transaction_Date": "30-07-2021"
+    },
+    "1002": {
+        "Account_Holder_Name": "kumar",
+        "Balance": 0,
+        "Deposit_Transaction_Per_Day": 0,
+        "Withdrawal_Transaction_Per_Day": 0,
+        "Last_Transaction_Date": "29-07-2021"
+    },
+    "1003": {
+        "Account_Holder_Name": "source_account",
+        "Balance": 75000,
+        "Deposit_Transaction_Per_Day": 2,
+        "Withdrawal_Transaction_Per_Day": 1,
+        "Last_Transaction_Date": "29-07-2021"
+    },
+    "1004": {
+        "Account_Holder_Name": "target_account",
+        "Balance": 90000,
+        "Deposit_Transaction_Per_Day": 2,
+        "Withdrawal_Transaction_Per_Day": 0,
+        "Last_Transaction_Date": "29-07-2021"
+    }
+}
